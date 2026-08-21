@@ -1,0 +1,9 @@
+platform :ios, '17.6'
+use_frameworks!
+
+target 'nenone' do
+    pod 'RxSwift'
+    pod 'RxCocoa'
+    pod 'Alamofire'
+    pod 'SwiftyJSON'
+end
